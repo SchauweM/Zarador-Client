@@ -1,0 +1,2 @@
+Fix object animations on fires and torches, they don't move for some reason some move but freak out.
+Fix npc rotation bug with walking out of the map then back in.

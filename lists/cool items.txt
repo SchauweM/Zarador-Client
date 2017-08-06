@@ -1,0 +1,14 @@
+31906 - numchucks (wield)
+31861 - sun glasses
+31864 - some type of crown
+31773 - Cool cape
+31740 - elkoys pet
+29748,29725 - pkers cape ?
+32367 - ironman platebody
+
+animations:
+7401,7402 - dragon harp
+7514 - dclaws`
+7516 - attack with elder maul
+7518 - hold elder maul
+7519 - walk with eldar maul
